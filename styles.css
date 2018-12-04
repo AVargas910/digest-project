@@ -13,7 +13,7 @@ p{
   margin-right: 1em;
 }
 
-heading{
+.heading{
   display: flex;
   justify-content: space-between;
 }
@@ -67,8 +67,8 @@ heading{
 
 #Anders_Lindn, #Sorry, #Olaf_Hussein, #Airfield, #Ziiiro, #Self_Driving, #Lapka, #Smieg, #Balloon{
   font-family: 'Oswald', sans-serif;
-  margin-right: 1em;
-  margin-bottom: 1em;
+  margin-right: 2vw;
+  margin-bottom: 2vw;
   height: 20vw;
 }
 
@@ -76,7 +76,7 @@ heading{
   background-image: url("./images/contemporary.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  height: 30vw;
+  height: 35vw;
   font-size: 2em;
   padding-top: 0.01em;
   margin-bottom: 0.5em;
@@ -89,15 +89,14 @@ heading{
   text-align: left;
   flex-wrap: nowrap;
   overflow: auto;
-  width: 25%;
+  width: 30%;
 }
 
 #Olaf_Hussein{
   background-image: url("./images/olaf.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  height: 20vw;
-  width: 75%;
+  width: 70%;
 }
 
 #Airfield{
@@ -110,7 +109,7 @@ heading{
 
 #Ziiiro{
   background-image: url("./images/ziiiro.jpg");
-  background-size: cover;
+  background-size:cover;
   background-repeat: no-repeat;
   height: 20vw;
   width: 50%;
