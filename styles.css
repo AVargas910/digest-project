@@ -69,14 +69,14 @@ heading{
   font-family: 'Oswald', sans-serif;
   margin-right: 1em;
   margin-bottom: 1em;
-  height: 10em;
+  height: 20vw;
 }
 
 #Anders_Lindn{
   background-image: url("./images/contemporary.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  height: 8em;
+  height: 30vw;
   font-size: 2em;
   padding-top: 0.01em;
   margin-bottom: 0.5em;
@@ -88,7 +88,6 @@ heading{
   font-family: 'Tajawal';
   text-align: left;
   flex-wrap: nowrap;
-  white-space: normal;
   overflow: auto;
   width: 25%;
 }
@@ -97,7 +96,7 @@ heading{
   background-image: url("./images/olaf.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  height: 10em;
+  height: 20vw;
   width: 75%;
 }
 
@@ -105,7 +104,7 @@ heading{
   background-image: url("./images/airplane.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  height: 10em;
+  height: 20vw;
   text-align: right;
 }
 
@@ -113,12 +112,14 @@ heading{
   background-image: url("./images/ziiiro.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+  height: 20vw;
   width: 50%;
 }
 
 #Self_Driving{
   background-image: linear-gradient(to right top, #eea310, #f0af4a, #efbb73, #ecc799, #e5d3bf);
   width: 50%;
+  height: 20vw;
   text-align: center;
 }
 
@@ -126,7 +127,7 @@ heading{
   background-image: url("./images/lapka.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  height: 21em;
+  height: 42vw;
   width: 20%;
 }
 
@@ -134,6 +135,7 @@ heading{
   background-image: url("./images/desklamp.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+  height: 20vw;
   width: 50%;
 }
 
@@ -141,5 +143,6 @@ heading{
   background-image: url("./images/PennywiseIt.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+  height: 20vw;
   width: 50%;
 }
